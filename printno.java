@@ -5,7 +5,7 @@ class PosNeg
 public static void main(String[] args)
 {
 int i;
-
+	System.out.println("printing no. 1 to 100");
 	for(i=1;i<=100;i++)
 	{
 
