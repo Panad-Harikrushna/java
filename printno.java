@@ -9,7 +9,7 @@ int i;
 	for(i=1;i<=100;i++)
 	{
 
-	if(i%10==0)
+	if(i%15==0)
 		{
 		System.out.print("DeepTech,");	
 		}
