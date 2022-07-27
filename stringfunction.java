@@ -2,7 +2,7 @@ class Stringlength
 {
   public static void main(String[]  args)
   {
-     	 String name=("Hello");
+      String name=("Hello");
     	System.out.println(name.length());
 	System.out.println(name.charAt(2));
 	System.out.println(name.toLowerCase());
@@ -10,11 +10,11 @@ class Stringlength
 	System.out.println(name.indexOf("l"));
 	System.out.println(name.substring(0,4));
 	System.out.println(name.replace('H','C'));
-	String name1="       Anudip";
+      String name1="       Anudip";
 	System.out.println(name1.trim());
 	System.out.println(name.equals("hello"));
 	System.out.println(name.equalsIgnoreCase("hello"));
-	
+	System.out.println(name.startsWith("e"));
 	
  }
 }
