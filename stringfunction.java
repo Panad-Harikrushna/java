@@ -9,7 +9,12 @@ class Stringlength
 	System.out.println(name.toUpperCase());
 	System.out.println(name.indexOf("l"));
 	System.out.println(name.substring(0,4));
-	String name1=("Hii");
+	System.out.println(name.replace('H','C'));
+	String name1="       Anudip";
+	System.out.println(name1.trim());
+	System.out.println(name.equals("hello"));
+	System.out.println(name.equalsIgnoreCase("hello"));
+	
 	
  }
 }
