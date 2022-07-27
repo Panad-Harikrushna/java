@@ -233,7 +233,7 @@ program:
 ---------------------------------------------------------------------------------------------
 Ans==> B. 12 
 ---------------------------------------------------------------------------------------------------------------------
-13 Imagine you work as a programmer in the ABC Company and you have written the following
+13. Imagine you work as a programmer in the ABC Company and you have written the following
 program:
 				class Test {
 				public static void main(String s[]) { int x = 10;
@@ -251,7 +251,7 @@ How many times will the value of x be printed after compilation and execution of
 ---------------------------------------------------------------------------------------------
 Ans==>	B. 1 
 ---------------------------------------------------------------------------------------------------------------------
-14 Imagine you work as a programmer in the ABC Company and you have written the following
+14. Imagine you work as a programmer in the ABC Company and you have written the following
 program:
 			class Test {
 			public static void main(String[] args) { for (int i = 0;i <=10;i++){
@@ -268,7 +268,7 @@ What will be the output after compilation and execution of the preceding program
 ---------------------------------------------------------------------------------------------
 Ans==>D. Program will not compile successfully.
 -----------------------------------------------------------------------------------------------------------------------
-15 Hari is a software developer in an MNC. In one of his projects, he wrote a program as:
+15. Hari is a software developer in an MNC. In one of his projects, he wrote a program as:
 			class TestQuestion {
 			public static void main(String s[]) { int num1 = 0102;
 			int num2 = -10;
@@ -283,7 +283,7 @@ What will be the output when the preceding program is compiled and executed?
 ---------------------------------------------------------------------------------------------
 Ans==>	A. The program will display the output as: 6
 --------------------------------------------------------------------------------------------------------------------
-16 Uma is a student of computer science and has written a program as:
+16. Uma is a student of computer science and has written a program as:
 			public class TestQuestion {
 			public static void main(String s[]) { boolean a;
 			boolean p = false; boolean q = false; if(a = p == q) {
@@ -301,7 +301,7 @@ What will be the output when the preceding code is compiled and executed?
 ---------------------------------------------------------------------------------------------
 Ans==>A. The program will display the output as: equal
 -------------------------------------------------------------------------------------------------------------------
-17 Jennie is a software developer in an MNC. In one of her projects, she wrote a program as:
+17. Jennie is a software developer in an MNC. In one of her projects, she wrote a program as:
 			class TestQuestion {
 			public static boolean funcA(int a) { boolean b = (a==10)?true:false; System.out.println(b);
 			return b;
@@ -317,7 +317,7 @@ Ans==>A. The program will display the output as: equal
 ---------------------------------------------------------------------------------------------
 Ans==>A. The program will display the output as: true false
 -----------------------------------------------------------------------------------------------------------------
-18 In a popular workbook for programmers, a program was found written as:
+18. In a popular workbook for programmers, a program was found written as:
 				class TestQuestion {
 				public static void main(String s[]) { Integer i1 = new Integer(10);
 				Integer i2 = new Integer(10); System.out.println(i1==i2);
